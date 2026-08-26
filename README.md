@@ -77,9 +77,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Gautam&theme=react-dark&hide_border=true&area=true"
-     width="100%"
-     alt="GitHub Activity Graph" />
+<img
+  src="https://raw.githubusercontent.com/Rohan-Gautam/Rohan-Gautam/output/activity-graph.svg"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
