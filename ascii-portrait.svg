@@ -1,0 +1,66 @@
+<svg width="338" height="553" viewBox="0 0 338 553" xmlns="http://www.w3.org/2000/svg">
+<rect width="338" height="553" fill="#0d1117"/>
+<style>text { font-family: "Courier New", monospace; font-size: 8px; fill: #58a6ff; white-space: pre; }</style>
+<text x="10" y="15.0" opacity="0">               .............................                          <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.0s" fill="freeze"/></text>
+<text x="10" y="23.6" opacity="0">       ............................:::........                        <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.045s" fill="freeze"/></text>
+<text x="10" y="32.2" opacity="0">........................:::::::::::::::::......       ...........     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.09s" fill="freeze"/></text>
+<text x="10" y="40.8" opacity="0">................:::::::::..::......::::::::.........................  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.135s" fill="freeze"/></text>
+<text x="10" y="49.4" opacity="0">..........::::::::::::::.           ....:.............................<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.18s" fill="freeze"/></text>
+<text x="10" y="58.0" opacity="0">.......:::::::::::::::.....       ....           ........:::::........<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.225s" fill="freeze"/></text>
+<text x="10" y="66.6" opacity="0">....::::::::::::..    ...        .:.   .....       ....::::::::::.....<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.27s" fill="freeze"/></text>
+<text x="10" y="75.2" opacity="0">::::::::::::::-.                .::     .::..  .:.   .::::::::::::....<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.315s" fill="freeze"/></text>
+<text x="10" y="83.8" opacity="0">:::::::::::::--..               ..    :-::.     ...   .::::::::::::...<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.36s" fill="freeze"/></text>
+<text x="10" y="92.4" opacity="0">::::::::::::--:.                     :---:      ..      .:::::::::::..<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.405s" fill="freeze"/></text>
+<text x="10" y="101.0" opacity="0">::::-----:::::.   .  .               .:::   .:-:.        .-::::::::::.<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.45s" fill="freeze"/></text>
+<text x="10" y="109.6" opacity="0">::-------::::.    .                  .      .:--.        .------::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.495s" fill="freeze"/></text>
+<text x="10" y="118.2" opacity="0">------------:                            ..:::::.         .:-----:::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.54s" fill="freeze"/></text>
+<text x="10" y="126.8" opacity="0">------------..                           .::::..           :------::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.585s" fill="freeze"/></text>
+<text x="10" y="135.4" opacity="0">-------------.                                ..       . . :------::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.63s" fill="freeze"/></text>
+<text x="10" y="144.0" opacity="0">=-----------:.          ...:::::.::-==-:..    .        ... :-------:::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.675s" fill="freeze"/></text>
+<text x="10" y="152.6" opacity="0">==----------...        :::::-====++*****+=-:.          .. .---------::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.72s" fill="freeze"/></text>
+<text x="10" y="161.2" opacity="0">=====--------:..      .=-:::-=+++++*######*+=-.           ----------::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.765s" fill="freeze"/></text>
+<text x="10" y="169.8" opacity="0">========------:. ..  .==-::-=++*##*##%%%%%%##*+=-:       :----------::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.81s" fill="freeze"/></text>
+<text x="10" y="178.4" opacity="0">========-------. ..  =*=--:-=+*##%%%%#%%%@@@%%#**+-     .------------:<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.855s" fill="freeze"/></text>
+<text x="10" y="187.0" opacity="0">========-------- .. -#*-....:-=++**##****++=======+:    :------------:<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9s" fill="freeze"/></text>
+<text x="10" y="195.6" opacity="0">========-------=..  *#:         .::=+--:    ..:::-*+. :=--------------<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.945s" fill="freeze"/></text>
+<text x="10" y="204.2" opacity="0">=+==============-- :%=.  .   ..   .=#*-:.:..-+:-+*#+..*+--------------<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.99s" fill="freeze"/></text>
+<text x="10" y="212.8" opacity="0">===============+=. +#-.... ..:-:  -#@%#*=--=++*%%%#*::#---------------<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.035s" fill="freeze"/></text>
+<text x="10" y="221.4" opacity="0">=======++++++++++: *%=--=------:.:=#@%%%%%##%%@@@%##=:+---------------<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.08s" fill="freeze"/></text>
+<text x="10" y="230.0" opacity="0">======+++++++++++- +%*--=+***+=..-+#@%%%%@@@@@@%%%#*=.:--------------:<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.125s" fill="freeze"/></text>
+<text x="10" y="238.6" opacity="0">=====++++++++++++- .#+---=+**+--==+#@@@@##%%%%%%%%#+:.---------------:<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.17s" fill="freeze"/></text>
+<text x="10" y="247.2" opacity="0">====+++++++++++++-  :==-:-==+=...::=*#**%%%%%%%%##*-. --------------::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.215s" fill="freeze"/></text>
+<text x="10" y="255.8" opacity="0">====+++++++++++++=   :::::---.      ..::=+*#####*+-...-------------:::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.26s" fill="freeze"/></text>
+<text x="10" y="264.4" opacity="0">====++++++++++++++:     .....     .-:.   ..:=**+=:...:------------::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.305s" fill="freeze"/></text>
+<text x="10" y="273.0" opacity="0">====++++++++++++++-              .-==--:.   .:-:.    :-----------:::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.35s" fill="freeze"/></text>
+<text x="10" y="281.6" opacity="0">====++++++++++++++-              .:---=--:.         .------------:::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.395s" fill="freeze"/></text>
+<text x="10" y="290.2" opacity="0">====++++======+++++-             ..   .:-:...       -------------:::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.44s" fill="freeze"/></text>
+<text x="10" y="298.8" opacity="0">=====+========+++++-.             .::::::....     ..:------------:::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.485s" fill="freeze"/></text>
+<text x="10" y="307.4" opacity="0">================--..             ..........      :#-..:----------:::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.53s" fill="freeze"/></text>
+<text x="10" y="316.0" opacity="0">=====++===--:.     : .:                   .    .-#@=:.....::::---:::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.575s" fill="freeze"/></text>
+<text x="10" y="324.6" opacity="0">======-:.        ...  =-                  .   :*@@%-:::::::...::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.62s" fill="freeze"/></text>
+<text x="10" y="333.2" opacity="0">-::..             .    --.                  .=#@@@*--:::::-::.::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.665s" fill="freeze"/></text>
+<text x="10" y="341.8" opacity="0">                        ::.              .-+%@@@@%=:-:::::-:::::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.71s" fill="freeze"/></text>
+<text x="10" y="350.4" opacity="0">                        .::.        .  :+%@@@@@@@#::-:::::::-:::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.755s" fill="freeze"/></text>
+<text x="10" y="359.0" opacity="0">                        ...::::.   :--.-*%@@@@@@@*::-----:::::::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.8s" fill="freeze"/></text>
+<text x="10" y="367.6" opacity="0">                        .::--.        .:..-*%@@@@=:-------::::::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.845s" fill="freeze"/></text>
+<text x="10" y="376.2" opacity="0">                       :--==-       .:::.-=--*#%%::-------::::::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.89s" fill="freeze"/></text>
+<text x="10" y="384.8" opacity="0">      .                .+=+#*=.     :-..*@@%%%#*=.:----::-:::::-::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.935s" fill="freeze"/></text>
+<text x="10" y="393.4" opacity="0">      ..   .           .+*+%%#+:    ::.#@@@@@@@%:.:::--::::::::-::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.98s" fill="freeze"/></text>
+<text x="10" y="402.0" opacity="0">     ...    .          :+**%@@%*:  .-::#@@@@@@%*.:-----:::::::-:::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.025s" fill="freeze"/></text>
+<text x="10" y="410.6" opacity="0">     ....   ...       ..***%@@@#:   .-.-%@@@@%%+.:-----:::::::::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.07s" fill="freeze"/></text>
+<text x="10" y="419.2" opacity="0">      ....   ....      .=%**%@@*    .:::*@@@%%%=.:::-:-:::::::::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.115s" fill="freeze"/></text>
+<text x="10" y="427.8" opacity="0">       ....  ....      .-%%#*%%-    .:-:-%%%%@%-.::--:::::::::::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.16s" fill="freeze"/></text>
+<text x="10" y="436.4" opacity="0">        ...  ....      .:#%%%%*     .:--:*%%@@#:::--::::::::::::::::::<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.205s" fill="freeze"/></text>
+<text x="10" y="445.0" opacity="0">        ....  ....     ..+@%@@+    ..::-:*@@@%+.::::::::::::::::::::..<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.25s" fill="freeze"/></text>
+<text x="10" y="453.6" opacity="0">         ...   ...     ..-%%@@=     ..:::*@@@%=.::::::::::::::::::....<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.295s" fill="freeze"/></text>
+<text x="10" y="462.2" opacity="0">           ..  ....     .:#@@@-     ..:::*@@@#::::::::::::::::.:..... <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.34s" fill="freeze"/></text>
+<text x="10" y="470.8" opacity="0">            .   ....    ..+@@%: .  .....:=%@%*.:::::::::::...:......  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.385s" fill="freeze"/></text>
+<text x="10" y="479.4" opacity="0">             .   ..      .-%@%... . .....-%@%-.:::::::::::.........   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.43s" fill="freeze"/></text>
+<text x="10" y="488.0" opacity="0">             ..  ..      ..*@%. ...   ...:#@*:.::::::::::........     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.475s" fill="freeze"/></text>
+<text x="10" y="496.6" opacity="0">                  ..      .=@#    .   ....*%=..:::::::::......        <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.52s" fill="freeze"/></text>
+<text x="10" y="505.2" opacity="0">                   .      .:%*        ....*#:.:................       <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.565s" fill="freeze"/></text>
+<text x="10" y="513.8" opacity="0">                          ..+*        ... ++ .................. :.    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.61s" fill="freeze"/></text>
+<text x="10" y="522.4" opacity="0">                           .:=            -: ...............   -*+.   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.655s" fill="freeze"/></text>
+<text x="10" y="531.0" opacity="0">                           ...            .. .......  ...       ..    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.7s" fill="freeze"/></text>
+<text x="10" y="539.6" opacity="0">                            .                     .                   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.745s" fill="freeze"/></text>
+</svg>
