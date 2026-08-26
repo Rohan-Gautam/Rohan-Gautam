@@ -1,0 +1,63 @@
+name: Generate Profile Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      # =========================
+      # GitHub Stats
+      # =========================
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Rohan-Gautam&show_icons=true&theme=tokyonight&hide_border=true
+          path: dist/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # =========================
+      # Top Languages
+      # =========================
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Rohan-Gautam&layout=compact&theme=tokyonight&hide_border=true
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # =========================
+      # GitHub Trophies
+      # =========================
+      - name: Generate GitHub Trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: username=Rohan-Gautam&theme=tokyonight&no-frame=true&row=1&column=6
+          path: dist/github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # =========================
+      # Publish to output branch
+      # =========================
+      - name: Push profile assets to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
