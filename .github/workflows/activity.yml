@@ -23,7 +23,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: Rohan-Gautam
-          options: theme=tokyonight&hide_border=true&area=true
+          options: bg_color=000000&color=39d353&title_color=39d353&line=39d353&point=39d353&area_color=0f6b2e&area=true&hide_border=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
