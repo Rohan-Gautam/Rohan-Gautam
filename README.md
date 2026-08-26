@@ -23,13 +23,13 @@
 
 ### 🚀 About Me
 
-- 💼 Currently interning as a **Java Backend Developer** at **GEOCO India** — built a modular Spring Boot e-commerce backend with **60+ REST endpoints** spanning auth, catalog, cart, checkout, orders, payments, and admin workflows
-- 🔐 Deep hands-on experience with **Spring Security, JWT, OAuth 2.0, RBAC**, Redis-backed caching/idempotency, Razorpay payment integration, and rate limiting in production systems
-- 🚀 Shipped independent projects — **Task Sketch** (Dockerized task-management API) and **Split Wiser** (expense-sharing backend on AWS EC2 with Google OAuth 2.0) — both live and open source
-- 🎓 Final-year CSE student at **VIT Bhopal** (CGPA 8.62/10), graduating September 2026
-- 🌱 Oracle Java SE 17 Certified | IBM SQL Certified | NPTEL Cloud Computing Certified
-- 🧩 300+ problems solved on LeetCode (156 Medium, 56 Hard) | Contest Rating: 1477
-- 🎯 Actively looking for backend developer roles — long-term, planning an MS in Computer Science in Germany
+* 💼 **6 months of professional experience as a Java Backend Developer Intern at GEOCO India** — engineered a modular Spring Boot e-commerce backend with **60+ REST endpoints** covering authentication, catalog, cart, checkout, orders, payments, support, and admin workflows
+* 🔐 Hands-on experience with **Spring Security, JWT, OAuth 2.0, RBAC**, Redis-backed caching and idempotency, Razorpay payment integration, and API rate limiting in production
+* 🚀 Built and deployed independent backend projects — **Task Sketch** and **Split Wiser** — using Spring Boot, PostgreSQL, Docker, JWT/OAuth 2.0, and AWS EC2
+* 🎓 Final-year **B.Tech CSE student at VIT Bhopal** with a **CGPA of 8.62/10**, graduating September 2026
+* 🌱 **Oracle Certified Professional: Java SE 17 Developer** | IBM SQL Certified | NPTEL Cloud Computing Certified
+* 🧩 **300+ LeetCode problems solved** | 156 Medium | 56 Hard | Contest Rating: 1477
+* 🎯 Actively seeking **Java Backend / Software Engineer roles (0–1 YOE)**, with a focus on building scalable backend systems
 
 ---
 
@@ -37,16 +37,21 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17%2F21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78C257?style=for-the-badge&logo=mockito&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
 
@@ -114,8 +119,8 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Task Sketch](https://github.com/Rohan-Gautam)** | Java, Spring Boot, PostgreSQL, Docker | JWT auth, JPA Specifications search/filter/sort, Razorpay donations, deployed on Render |
-| **[Split Wiser](https://github.com/Rohan-Gautam)** | Java, Spring Boot, PostgreSQL, Docker, AWS EC2 | Equal/exact/percentage splits, debt simplification, Google OAuth 2.0, deployed on EC2 |
+| **[Task Sketch](https://github.com/Rohan-Gautam/Task-Sketch-with-SPRING)** | Java, Spring Boot, PostgreSQL, Docker | JWT auth, JPA Specifications search/filter/sort, Razorpay donations, deployed on Render |
+| **[Split Wiser](https://github.com/Rohan-Gautam/Split-Wiser)** | Java, Spring Boot, PostgreSQL, Docker, AWS EC2 | Equal/exact/percentage splits, debt simplification, Google OAuth 2.0, deployed on EC2 |
 
 ---
 
