@@ -95,7 +95,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rohan-Gautam/Rohan-Gautam/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Rohan-Gautam/Rohan-Gautam/output/github-contribution-grid-snake-dark.svg"
+     alt="snake animation"
+     width="100%" />
 
 </div>
 
